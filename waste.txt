@@ -1,0 +1,151 @@
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+
+ <!-- About -->
+  <section class="page-section" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">About Me</h2>
+          <h3 class="section-subheading text-muted"></h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <ul class="timeline">
+            <li>
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4></h4>
+                  <h4 class="subheading"></h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted"> Born in the year 2000 in the South of Italy, I have always cultivated a <b>strong passion</b> for the art of make-up.</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4></h4>
+                  <h4 class="subheading"></h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">I then decided in 2019 to move to <b>Milan</b>, where I studied and started my career as a <b>professional make-up artist</b> working especially in the fashion industry.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4></h4>
+                  <h4 class="subheading"></h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted"> 
+                    Aiming to leverage my knowledge in <br> <b>make-up and hair styling</b> to create both ordinary and avant-garde 
+                    looks.</p>
+                </div>
+              </div>
+            </li>
+           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+   
+
+<div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="#">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">Terms of Use</a>
+            </li>
+          </ul>
+        </div>
+
+
+<div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4">
+
+</div>
+      </div>
+    </div>
+
+    <div style=" display: flex;align-items: left;justify-content: left;">
+    <ul>
+      <li> Fashion </li>    <li> Fashion </li>
+      <li> Beauty </li>     <li> Beauty </li>
+      <li> Bridal </li>
+      <li> Editorial </li>
+      <li> Advertising </li>
+      <li> Photographic </li>
+      <li> Male Grooming </li>
+      <li> Face & Body Painting </li>
+    </ul>
+    </div>
+    <div style=" display: flex;align-items: center;justify-content: center;">
+    <ul>
+      <li> Fashion </li>    <li> Fashion </li>
+      <li> Beauty </li>     <li> Beauty </li>
+      <li> Bridal </li>
+      <li> Editorial </li>
+      <li> Advertising </li>
+      <li> Photographic </li>
+      <li> Male Grooming </li>
+      <li> Face & Body Painting </li>
+    </ul>
+    </div>
+
+    <div style=" padding-top: 10px;padding-bottom: 10px;">
+    </div>
+
+
+<div style=" display: flex;align-items: center;justify-content: center;">
+    <ul>
+      <li> Fashion </li>    <li> Fashion </li>
+      <li> Beauty </li>     <li> Beauty </li>
+      <li> Bridal </li>
+      <li> Editorial </li>
+      <li> Advertising </li>
+      <li> Photographic </li>
+      <li> Male Grooming </li>
+      <li> Face & Body Painting </li>
+    </ul>
+    </div>
+</div>
+<h2>Three Equal Columns</h2>
+
+<div class="col-md-4" style="margin: auto; text-align: center;">
+    <ul class="list-inline social-buttons">
+      <li class="list-inline-item">
+        <a href="https://www.instagram.com/federicarussomakeup/">
+          <i class="fab fa-instagram"></i>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://www.facebook.com/federicarussomakeup/">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://it.linkedin.com/in/federica-russo-294878196">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
